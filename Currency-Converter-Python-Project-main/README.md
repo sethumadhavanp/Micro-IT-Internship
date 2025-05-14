@@ -5,6 +5,7 @@ Please you should run the program in a compatible environment like Google Colab,
 A real-time Python project designed to use up-to-date exchange rates and offer quick and accurate conversions for a variety of different currencies. The program is built using Python and can be accessed via a user-friendly interface that allows users to easily select their desired currencies and enter the amount they wish to convert.
 
 ## Screenshots
+![Currency Converter](https://github.com/sethumadhavanp/Micro-IT-Internship/blob/main/Currency-Converter-Python-Project-main/Screenshot/Output%20Screenshot.png?raw=true)
 
 ## Features
 - Real-time exchange rates
