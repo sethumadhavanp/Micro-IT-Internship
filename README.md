@@ -1,4 +1,5 @@
-## 1) Python Calculator
+## 1) Calculator Python Project
+
 ## Description:
 A python calculator that runs within the terminal. There are a variety of operations to choose from: add, subtract, multiply, divide, modulus (calculate remainder), and exponent (to work out a power of a number). 
 
@@ -15,6 +16,7 @@ An interesting design choice I decided to make, was the ability to continue calc
 
 ## 2) Currency Converter Python Project
 
+## Description:
 A real-time Python project designed to use up-to-date exchange rates and offer quick and accurate conversions for a variety of different currencies. The program is built using Python and can be accessed via a user-friendly interface that allows users to easily select their desired currencies and enter the amount they wish to convert.
 
 ## Screenshots
