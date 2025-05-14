@@ -9,7 +9,7 @@ Next, the user is prompted for a second number, and applies the calculation to t
 An interesting design choice I decided to make, was the ability to continue calculating with the same number if the user chooses so. The program asks the user if they want to calculate with the same number, start with a new number, or exit the program. I find this very interesting as despite the logic being simple, it adds a whole new layer to the user experience. Should the user choose this, the output is stored and used as the new first number. The process repeats until the user opts to quit, escaping the while loop.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-=========================================================================================================================================================
+===================================================================================================================
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2) Currency Converter Python Project
