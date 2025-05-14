@@ -18,12 +18,6 @@ A real-time Python project designed to use up-to-date exchange rates and offer q
 
 ![Currency Converter Screenshot](https://github.com/KaShiekzmi/Currency-Converter-Python-Project/assets/114513868/a2208e67-9c63-42ab-ae99-6cdc7923c14a)
 
-## Team Members
-
-- **Kashif Abbas Kazmi**
-- **Muhammad Sarim**
-- **Wajahat**
-
 ## Features
 
 - Real-time exchange rates
