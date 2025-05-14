@@ -1,4 +1,4 @@
-Python Calculator
+1 Python Calculator
 #### Description:
 A python calculator that runs within the terminal. There are a variety of operations to choose from: add, subtract, multiply, divide, modulus (calculate remainder), and exponent (to work out a power of a number). 
 
@@ -8,8 +8,11 @@ Next, the user is prompted for a second number, and applies the calculation to t
 
 An interesting design choice I decided to make, was the ability to continue calculating with the same number if the user chooses so. The program asks the user if they want to calculate with the same number, start with a new number, or exit the program. I find this very interesting as despite the logic being simple, it adds a whole new layer to the user experience. Should the user choose this, the output is stored and used as the new first number. The process repeats until the user opts to quit, escaping the while loop.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Currency Converter Python Project
+2) Currency Converter Python Project
 
 A real-time Python project designed to use up-to-date exchange rates and offer quick and accurate conversions for a variety of different currencies. The program is built using Python and can be accessed via a user-friendly interface that allows users to easily select their desired currencies and enter the amount they wish to convert.
 
